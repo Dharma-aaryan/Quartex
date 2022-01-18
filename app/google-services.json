@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "75964145274",
+    "firebase_url": "https://hacksprint-ps07-tasa-default-rtdb.firebaseio.com",
+    "project_id": "hacksprint-ps07-tasa",
+    "storage_bucket": "hacksprint-ps07-tasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75964145274:android:47d0ecfe9983761e2465c3",
+        "android_client_info": {
+          "package_name": "com.sir.hacksprint_ps07_tasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75964145274-g49auoa1vr7v289skkt9rh24sn42jeee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1dsyqQn1CjXgw4rU2gA4wt8kk9_kxoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75964145274-g49auoa1vr7v289skkt9rh24sn42jeee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75964145274:android:3f387a4e4ae58e972465c3",
+        "android_client_info": {
+          "package_name": "com.sir.quartex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75964145274-g49auoa1vr7v289skkt9rh24sn42jeee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1dsyqQn1CjXgw4rU2gA4wt8kk9_kxoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75964145274-g49auoa1vr7v289skkt9rh24sn42jeee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
